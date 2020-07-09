@@ -1,5 +1,13 @@
+![Logo Github](https://github.com/bruno07dev/reserved-blood/blob/master/github-collab-retina-preview.gif)
+
+
+
 # reserved-blood
- Uma aplicação web e mobile de banco de sangue. 
+ Uma aplicação web e mobile de banco de sangue.
+ 
+ ![Logo Github](https://github.com/bruno07dev/reserved-blood/blob/master/unknown.png)
+ 
+ 
 ## Esta aplicação possibilita ao usuário:
 - Fazer um cadastro;
 - Agendar uma doação de sangue;
